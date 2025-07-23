@@ -1,5 +1,5 @@
 # CMOS_Inverter
-readme_content = """
+
 #  CMOS Inverter using Sky130 PDK
 
 A basic CMOS inverter designed using **Skywater SKY130 PDK**, simulated using **Xschem + Ngspice**.
@@ -77,3 +77,10 @@ No. of Data Rows: 250
 * Plot:
 → v(A), v(vout)
 → x0 = 3.40816e-06, y0 = 1.80556
+```
+## CMOS Inverter Transfer Curve
+
+Below is the simulated transfer characteristic (VTC) of the CMOS inverter:
+
+![CMOS Inverter Transfer Curve](https://github.com/user-attachments/assets/87289639-03e8-4293-9d6e-f2a271428737)
+
